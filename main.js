@@ -93,7 +93,7 @@ bot.on('physicTick', () => {
 })
 
 bot.on('chat', (username, message) => {
-  if (username === 'Poyarik') {
+  if (username === 'Maratantipvp1') {
     const mcData = require('minecraft-data')(bot.version)
     const args = message.split(' ')
     if (args[0] == 'Собери'){
