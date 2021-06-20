@@ -7,8 +7,8 @@ const autoeat = require('mineflayer-auto-eat')
 const collectBlock = require('mineflayer-collectblock').plugin
 
 const bot = mineflayer.createBot({
-    host: 'test',
-    port: 00000,
+    host: 'free2.idley.gg',
+    port: 38461,
     username: 'Bot',
 })
 
